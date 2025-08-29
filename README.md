@@ -1,2 +1,32 @@
 # GenAi-Voice-Assistant
-AI Voice Assistant is a Python-based project that demonstrates how speech recognition, natural language processing, and text-to-speech technologies can be combined to build an intelligent voice interface. The assistant can understand user queries, respond verbally, and perform simple tasks such as fetching the time/date or opening websites.
+# 🎤 AI Voice Assistant
+
+An AI-powered Python voice assistant that can:
+- Listen to user queries using speech recognition
+- Respond back using text-to-speech (TTS)
+- Perform tasks like telling time, date, and opening websites
+- Easily extendable with NLP/ML for advanced commands
+
+---
+
+## 🚀 Features
+- **Speech Recognition (STT):** Converts spoken words into text
+- **Text-to-Speech (TTS):** Speaks back responses
+- **Basic Commands:** 
+  - "What is the time?"
+  - "What is today’s date?"
+  - "Open YouTube"
+  - "Open Google"
+- **Extensible:** Add custom intents, connect to APIs, or integrate with IoT devices
+
+---
+
+## 🛠️ Tech Stack
+- **Python 3**
+- **SpeechRecognition** (Google Web Speech API)
+- **pyttsx3** (offline text-to-speech)
+- **PyAudio** (microphone input)
+
+---
+
+
